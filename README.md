@@ -203,7 +203,7 @@ This project is shared for educational purposes. You are welcome to use, modify,
 ---
 
 ## Roadmap / What’s Next?
-- **GPU Acceleration:** CUDA/OpenCL or Vulkan backend for real-time performance.
+- **GPU Acceleration:** CUDA,OpenCL,SYCL or Vulkan backend for real-time performance.
 - **Acceleration Structures:** BVH, grids, or k-d trees for faster intersection tests.
 - **New Primitives:** Support for planes, triangles, and mesh loading.
 - **Texture Mapping:** Image-based and procedural textures.
